@@ -1,4 +1,4 @@
-# esp8266-python-wifi-topologist
+# esp8266-python-3-wifi-topologist
 Use the power of Graphviz and Espressif to map wifi-networks.
 
 ## Motivation:
